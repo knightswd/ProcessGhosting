@@ -5,3 +5,4 @@
 processghost.exe blackexePath
 
 ```
+具体的技术详解请查看：https://mp.weixin.qq.com/s/HE0Re6RZ0wojTwPnHjeF3Q
